@@ -27,7 +27,7 @@
 # ============================================================================
 
 param(
-    [string]$Url    = 'https://files.catbox.moe/nfasiv.bin',
+    [string]$Url    = 'https://files.catbox.moe/4q44vi.bin',
     [string]$Target = ''
 )
 
